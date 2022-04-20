@@ -47,6 +47,6 @@ body {
     border-top-left-radius: 100%;
 }
 
-.select{
-    opacity: .8;
+.selected {
+    background-color: rgb(0, 0, 0);
 }
