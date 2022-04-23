@@ -6,10 +6,9 @@ Criado com base nos tutoriais do bootcamp da Órbi Games disponível na platafor
 
 Para acessar o jogo clique no link: https://kasvrol.github.io/jogo-da-memoria/
 
-## Fotos do Jogo:
+## Foto do Jogo:
 
-![Print 01](https://github.com/kasvrol/jogo-da-memoria/blob/main/images/print01.png)
-![Print 02](https://github.com/kasvrol/jogo-da-memoria/blob/main/images/print02.png)
+![Print 01](https://github.com/kasvrol/jogo-da-memoria/blob/main/imgs/print01.png)
 
 ### Feraamentas e tecnologias ⚒:
 
